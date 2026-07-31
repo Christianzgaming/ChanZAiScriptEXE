@@ -1,7 +1,8 @@
 # ChanZAi Script v4
 ### By Christian Geronimo (ChanZAi)
 
-<img width="898" height="675" alt="1" src="https://github.com/user-attachments/assets/7f76da63-6110-4fb5-9d49-880380f4858b" />
+<img width="906" height="718" alt="image" src="https://github.com/user-attachments/assets/097b725c-550d-424e-914a-ab5acb113a54" />
+
 
 
 
